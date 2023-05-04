@@ -1,0 +1,18 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/R.aac18db0998e997e02911112453674d8?rik=cBFHQiZ6DKGKhA&pid=ImgRaw&r=0);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/OIP.KtSeTME3qq5ZVSbK17SjqAHaKF?pid=ImgDet&w=587&h=800&rs=1);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/OIP.x6xFDmsrmu1_l3ObfZL4vwHaKU?pid=ImgDet&w=564&h=786&rs=1);
+}
+.carousel-item{
+    height:32rem;
+}
